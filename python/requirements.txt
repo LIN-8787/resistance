@@ -1,4 +1,5 @@
 streamlit
 Pillow
-google-genai
 pytesseract
+pandas
+google-genai
